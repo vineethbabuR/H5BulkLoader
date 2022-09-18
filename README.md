@@ -1,6 +1,3 @@
-# H5BulkLoader
-H5 Utility to load bulk dataset to M3 
-
 # H5BulkLoader 
 Infor M3 JavaScript extension to load large dataset via H5 grid
 
